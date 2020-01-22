@@ -12,9 +12,12 @@ display:flex;
 justify-content:center;
 flex-direction:column;
 align-items:center;
-background:linear-gradient (rgb(0.102.153),rgb(102,104,152));
-color:#ffffcc;
+background:web-kit-linear-gradient(rgb(0,102,153),rgb(102,104,152));
+background:moz-linear-gradient(rgb(0,102,153),rgb(102,104,152));
+background:o-linear-gradient(rgb(0,102,153),rgb(102,104,152));
+background:linear-gradient(rgb(0,102,153),rgb(102,104,152));
+color:white;
 
-  
-  
+
+
 }
