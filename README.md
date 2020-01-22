@@ -1,2 +1,2 @@
 # html5-app
-Somple weather app
+Simple weather app.
